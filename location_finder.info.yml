@@ -1,0 +1,8 @@
+name: "Location Finder"
+type: module
+description: "Provides a form to find locations and displays them in YAML format."
+core_version_requirement: ^8 || ^9 || ^10
+package: Custom
+dependencies:
+  - drupal:field
+  - drupal:system

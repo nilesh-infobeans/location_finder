@@ -1,0 +1,4 @@
+<?php
+
+define('DHL_LOCATION_FINDER_API_KEY', '<placeholder value>');
+define('DHL_LOCATION_FINDER_URL', '<placeholder value>');
